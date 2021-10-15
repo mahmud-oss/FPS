@@ -9,7 +9,7 @@
 <p>Press <b>S</b> -> Move backwards</p>
 <p>Press <b>Left mouse button</b> -> Shoot</p>
 <p>Press <b>l</b> -> Ambient light off</p>
-<p>Press <b>L<>/b -> Ambient light on</p>
+<p>Press <b>L</b> -> Ambient light on</p>
 <p>Press <b>k</b> -> Diffuse light off</p>
 <p>Press <b>K</b> -> Diffuse light on</p>
 <p>Press <b>j</b> -> Specular light on</p>
